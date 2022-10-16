@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4236d7d2-c53c-4752-a5cd-ad466193edcc" name="Changes" comment="code added">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Delete Operation for Two Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pow(x, n).py" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
