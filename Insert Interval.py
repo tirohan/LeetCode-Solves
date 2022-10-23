@@ -1,14 +1,5 @@
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        """
-
-        :type intervals: List[List[int]]
-
-        :type newInterval: List[int]
-
-        :rtype: List[List[int]]
-s
-        """
 
         left, right = 0, len(intervals) - 1
 
