@@ -23,4 +23,4 @@ class Solution:
                 else:
                     left = left + 1
                     
-        return result 
+        return result #return the result
