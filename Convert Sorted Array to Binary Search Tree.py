@@ -7,10 +7,7 @@ class TreeNode(object):
 
 class Solution(object):
     def sortedArrayToBST(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: TreeNode
-        """
+
         return self._sortedArrayToBST(nums, 0, len(nums))
 
     def _sortedArrayToBST(self, nums, left, right):
