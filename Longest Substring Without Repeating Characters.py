@@ -4,7 +4,7 @@ class Solution:
             return 0
 
         max_len = 0
-        # map of last index of every character
+        # 
         last_idx = {}
         # starting index of current window to calculate max_len
         start_idx = 0
