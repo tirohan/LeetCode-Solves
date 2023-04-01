@@ -1,10 +1,6 @@
 class Solution(object):
     def isMatch(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: bool
-        """
+
         sl, pl = len(s), len(p)
         saves, savep = None, None
         si = pi = 0
