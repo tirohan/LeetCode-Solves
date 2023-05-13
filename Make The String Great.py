@@ -1,5 +1,6 @@
 class Solution:
     def makeGood(self, s: str) -> str:
+        #main subroutine
         stk = []
         for ch in s:
             counter_ch = ch.upper() if ch.islower() else ch.lower()
