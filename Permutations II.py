@@ -1,12 +1,6 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        """
-
-        :type nums: List[int]
-
-        :rtype: List[List[int]]
-
-        """
+        
 
         freq = Counter(nums)
 
